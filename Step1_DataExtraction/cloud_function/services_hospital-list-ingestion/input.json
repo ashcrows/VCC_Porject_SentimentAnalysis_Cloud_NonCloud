@@ -1,0 +1,6 @@
+{
+  "api_key": "YOUR_GOOGLE_PLACES_API_KEY",
+  "city": "YOUR_CITY_NAME",
+  "bucket_name": "YOUR_GCS_BUCKET_NAME",
+  "folder": "hospital_data"
+}

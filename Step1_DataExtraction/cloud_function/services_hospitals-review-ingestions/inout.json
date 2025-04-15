@@ -1,0 +1,6 @@
+{
+    "city": "Mumbai",
+    "bucket_name": "your-gcs-bucket-name",
+    "api_key": "YOUR_GOOGLE_PLACES_API_KEY",
+    "folder_name": "hospitals_review"
+}
